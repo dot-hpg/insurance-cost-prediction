@@ -3,7 +3,7 @@
 Predicting individual health insurance premiums from demographic and health data using
 machine learning — EDA, hypothesis testing, model comparison, and a deployed web calculator.
 
-**Tableau Public dashboard:** _[add your link here]_
+**Tableau Public dashboard:** _[[add your link here](https://public.tableau.com/app/profile/hari.guntuku/viz/InsuranceCostPredictionDashboard/Dashboard1)]_
 **Technical blog:** _[add your Medium/TDS link here]_
 **Demo video (Loom):** _[add your link here]_
 
